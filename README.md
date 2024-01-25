@@ -1,8 +1,8 @@
 <div align=center>
 
-### :frog: Growing Developers :frog:
+### ⛵ flowing developer ⛵
 
-Hello, I am Kyeong-Woo Ryu, Java developer. 
+hello. I am Kyeong-Woo Yoo, a developer who does not stagnate like a pond, but flows smoothly like a river.
 
 We always try new things to grow steadily.
 
