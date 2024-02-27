@@ -1,8 +1,8 @@
 <div align=center>
 
-### ⛵ flowing developer ⛵
+### :thought_balloon: Introduce
 
-hello. I am Kyeong-Woo Yoo, a developer who does not stagnate like a pond, but flows smoothly like a river.
+Hello, my name is <b>Kyeong-Woo Ryu</b>, a Java developer. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px">
 
 We always try new things to grow steadily.
 
@@ -12,7 +12,7 @@ Feedback is welcome at any time ♥️
 <a href="https://everlasting-cello-2b6.notion.site/KyeongWoo-blog-f76f7a2af70c4d0a895071646565b85d"> ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)</a> 
 <a href="mailto:drd9811@naver.com"> <img src="https://img.shields.io/badge/Mail-000000?style=flat&logo=naver&logoColor=white&link=drd9811@naver.com"/></a>
 
-### :books: Tech Stack
+### :books: Stack
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/> 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/> 
