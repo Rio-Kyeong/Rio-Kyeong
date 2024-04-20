@@ -1,6 +1,6 @@
 <div align=center>
 
-### Introduce
+### :peach: Introduce
 
 Hello, my name is <b>Kyeong-Woo Ryu</b>, a Java developer. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px">
 
