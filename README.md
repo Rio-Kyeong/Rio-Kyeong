@@ -44,7 +44,7 @@ Feedback is welcome at any time ♥️
 <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=Apache-Tomcat&logoColor=black"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
   
-### :wrench: Tools
+### :wrench: Tool
 
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=Eclipse&logoColor=white"/>
 <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=IntelliJ-IDEA&logoColor=white"/>
